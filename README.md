@@ -1,4 +1,5 @@
 # ctDNA Analysis - Williams et al. Nature
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15798215)](https://doi.org/10.5281/zenodo.15798215)
 
 This repository contains code for generating results from Williams et al. Nature: **[Paper Title Placeholder]** ([Paper Link Placeholder])
 
