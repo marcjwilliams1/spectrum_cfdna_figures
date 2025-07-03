@@ -5,7 +5,7 @@ This repository contains code for generating results from Williams et al. Nature
 
 ## Data Requirements
 
-All analyses are performed in R. Before running the analysis scripts, you need to download the required data:
+All analyses are performed in R. Before running the analysis scripts, you need to download the required data. Once you've downloaded the data, change the config file to point to the root of the synapse directory and change the path to the tables file.
 
 ### Synapse Data
 Download the project data from Synapse:
